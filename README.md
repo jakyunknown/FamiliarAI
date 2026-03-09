@@ -1,25 +1,35 @@
-# Familiar - Caregiver Dashboard
+# 🌿 Familiar - Caregiver Dashboard
 
-Familiar Ai is a open sourced caregiver dashboard for tracking people recently seen by a dementia support camera system to help dementia patients rember their loved ones built by Judah C, Pranav E,and Ronak R.
+![Status](https://img.shields.io/badge/Status-Active-86efac?style=flat-square&labelColor=1a1a1a)
+![License](https://img.shields.io/badge/License-Open%20Source-86efac?style=flat-square&labelColor=1a1a1a)
+![Built With](https://img.shields.io/badge/Built%20With-React%20%2B%20TypeScript-86efac?style=flat-square&labelColor=1a1a1a)
 
-## Project Overview
+Familiar Ai is a open sourced caregiver dashboard for tracking people recently seen by a dementia support camera system to help dementia patients rember their loved ones built by Judah C, Pranav E, and Ronak R.
+
+---
+
+## 📋 Project Overview
 
 This is a UI-only implementation of the Familiar dashboard for the hackathon MVP. It includes:
 
-- Landing page
-- Sign In page
-- Dashboard with Home, Alerts, and People sections
-- Person detail views
+- 🏠 Landing page
+- 🔐 Sign In page
+- 📊 Dashboard with Home, Alerts, and People sections
+- 👤 Person detail views
 
-## Design System
+---
+
+## 🎨 Design System
 
 Based on the minimalistic design specified in the requirements:
-- Light green primary color (#86efac - Tailwind green-300)
+- Light green primary color (`#86efac` - Tailwind green-300)
 - White background
 - Light gray secondary background
 - Simple, clean UI with rounded cards and soft shadows
 
-## Folder Structure
+---
+
+## 📁 Folder Structure
 
 ```
 src/
@@ -32,7 +42,9 @@ src/
 └── main.tsx         # Entry point
 ```
 
-## Development
+---
+
+## 🚀 Development
 
 To run the project locally:
 
@@ -46,19 +58,23 @@ To run the project locally:
    npm run dev
    ```
 
-3. Open your browser to http://localhost:5173
+3. Open your browser to `http://localhost:5173`
 
-## Components
+---
+
+## 🧩 Components
 
 Reusable components:
-- Button
-- Card
-- Navbar
-- PersonCard
-- InteractionItem
-- AlertCard
+- `Button`
+- `Card`
+- `Navbar`
+- `PersonCard`
+- `InteractionItem`
+- `AlertCard`
 
-## Pages
+---
+
+## 📄 Pages
 
 1. Landing Page
 2. Sign In Page
@@ -68,6 +84,8 @@ Reusable components:
 6. People Directory
 7. Person Detail
 
-## Mock Data
+---
+
+## 🧪 Mock Data
 
 During UI development, fake data is used to simulate backend responses.

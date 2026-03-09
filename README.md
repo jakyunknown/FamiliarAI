@@ -95,6 +95,11 @@ During UI development, fake data is used to simulate backend responses.
 
 
 
+
+
+
+
+
 # ⚠️ Disclaimer
 
 ## Not a Medical Device

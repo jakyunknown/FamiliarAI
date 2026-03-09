@@ -1,6 +1,6 @@
 # Familiar - Caregiver Dashboard
 
-A caregiver dashboard for tracking people recently seen by a dementia support camera system.
+Familiar Ai is a open sourced caregiver dashboard for tracking people recently seen by a dementia support camera system to help dementia patients rember their loved ones built by Judah C, Pranav E,and Ronak R.
 
 ## Project Overview
 

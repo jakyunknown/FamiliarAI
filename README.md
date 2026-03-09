@@ -1,4 +1,4 @@
-# 🌿 Familiar - Caregiver Dashboard
+# 🌿 Familiar AI - Caregiver Dashboard
 
 ![Status](https://img.shields.io/badge/Status-Active-86efac?style=flat-square&labelColor=1a1a1a)
 ![License](https://img.shields.io/badge/License-Open%20Source-86efac?style=flat-square&labelColor=1a1a1a)
